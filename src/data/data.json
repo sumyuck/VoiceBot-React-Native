@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725775675/reg_T-shirt_r21kyf.jpg",
+            "title": "shirt",
+            "price": 4.99
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776742/loose_fit_sweatshirt_zisapv.jpg",
+            "title": "H&M Loose Fit Sweatshirt",
+            "price": 14.99
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776741/Linen_blend_trousers_cuxurx.jpg",
+            "title": "H&M Linen Blend Trouser",
+            "price": 19.99
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776741/regular_fit_oxford_shirt_yyvphe.jpg",
+            "title": "H&M Regular Oxford Shirt",
+            "price": 12.99
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776740/Loose_fit_printed_tshirt_d5iwam.jpg",
+            "title": "H&M Loose Fit Printed T-shirt",
+            "price": 11.99
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776737/bodycon_dress_ckmlhp.jpg",
+            "title": "H&M Bodycon Dress",
+            "price": 149.99
+        },
+        {
+            "id": 7,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776738/wide_high_jeans_cdlhjd.jpg",
+            "title": "H&M Wide High Jeans",
+            "price": 79.99
+        },
+        {
+            "id": 8,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776739/Denim_shirt_fan7w7.jpg",
+            "title": "H&M Denim Shirt",
+            "price": 49.99
+        },
+        {
+            "id": 9,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776739/wide_joggers_cby5rz.jpg",
+            "title": "H&M Wide Joggers",
+            "price": 39.99
+        },
+        {
+            "id": 10,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776738/Jersey_top_mw7nmn.jpg",
+            "title": "H&M Jersey Top",
+            "price": 129.99
+        },
+        {
+            "id": 11,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776741/regular_fit_oxford_shirt_yyvphe.jpg",
+            "title": "H&M Regular Oxford Shirt",
+            "price": 12.99
+        },
+        {
+            "id": 12,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776741/Linen_blend_trousers_cuxurx.jpg",
+            "title": "H&M Linen Blend Trouser",
+            "price": 19.99
+        },
+        {
+            "id": 13,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776738/wide_high_jeans_cdlhjd.jpg",
+            "title": "H&M Wide High Jeans",
+            "price": 79.99
+        },
+        {
+            "id": 14,
+            "image": "https://res.cloudinary.com/dawnwcuvn/image/upload/v1725776737/bodycon_dress_ckmlhp.jpg",
+            "title": "H&M Bodycon Dress",
+            "price": 149.99
+        }
+    ]
+}
