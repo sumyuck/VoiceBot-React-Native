@@ -17,7 +17,7 @@ const Header = ({ isCart }) => {
 
   const ASSEMBLYAI_API_KEY = 'd07c08f62d0446e78cf61acf5eb829c7';
   const products = productData.products;
-  const filePath = 'file:////data/user/0/com.test/cache/sound.mp4'; // Define file path
+  const filePath = 'file:////data/user/0/com.test/cache/sound.mp4';
 
   const handleBack = () => {
     navigation.navigate("HOME");
@@ -40,7 +40,7 @@ const Header = ({ isCart }) => {
     try {
       const result = await audioRecorderPlayer.stopRecorder();
       console.log('Recording stopped:', result);
-      await transcribeAudio(filePath); // Send audio to AssemblyAI for transcription
+      await transcribeAudio(filePath);
     } catch (error) {
       console.error('Failed to stop recording:', error);
     }
